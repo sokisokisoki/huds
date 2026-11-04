@@ -1,0 +1,46 @@
+"resource/ui/huddemomancharge.res"
+{	
+	"ChargeMeter"
+	{	
+		"ControlName"	"ContinuousProgressBar"
+		"fieldName"		"ChargeMeter"
+		"font"			"Default"
+		"xpos"			"c-66"
+		"ypos"			"c143"
+		"zpos"			"2"
+		"wide"			"132"
+		"tall"			"8"				
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"Left"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"MeterFG"		"255 255 255 255"
+		"MeterFG_override"	"255 255 255 255"
+		"fgcolor"		"255 255 255 255"
+		"fgcolor_override"	"255 255 255 255"
+		"MeterBG"		"255 255 255 30"
+		"MeterBG_override"	"255 255 255 30"
+		"bgcolor"		"0 0 0 255 "
+		"bgcolor_override"	"0 0 0 255"
+	}
+
+	"ChargeBG"
+	{
+		"ControlName"			"CExImageButton"
+		"fieldName"			"ChargeBG"
+		"xpos"				"c-70"
+		"ypos"				"c140"
+		"zpos"				"2"
+		"wide"				"140"
+		"tall"				"14"
+		"visible"			"1"		
+		"enabled"			"1"
+		"defaultbgcolor_override"	"0 0 0 0"
+		"PaintBackgroundType"		"0"
+		"TextInsetX"			"999999"
+	}
+	
+}

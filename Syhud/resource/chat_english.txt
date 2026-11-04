@@ -1,0 +1,9 @@
+"lang"
+{
+"Language" "English"
+"Tokens"
+{
+"TF_Feign"					"Feign"
+"TF_KNIFE"					"Knife"
+}
+}
